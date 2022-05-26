@@ -1,5 +1,16 @@
 field,display_name
-title,Title
+mediatype,Type
+production,Show
+tour,Tour
 date,Date
-description,Description
-subject,Subjects
+master, Master
+nft, NFT
+cast, Cast
+notes, Notes
+language, Language
+location, Location
+trader_format, Format
+trader_notes, Trader Notes
+encora, Encora
+id, ID
+raw_date, Raw Date
