@@ -2,6 +2,5 @@ display_name,stub,dropdown_parent
 Home,/
 Browse,/browse.html
 Subjects,/subjects.html
-Video,/video.html,Subjects
 Data,/data.html
 About,/about.html
